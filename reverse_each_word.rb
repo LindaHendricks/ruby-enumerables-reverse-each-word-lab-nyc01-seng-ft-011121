@@ -6,8 +6,11 @@ def reverse_each_word (string)
     element.reverse 
     new_reverse_array << element
     
+  
+    
   end
   
+  new_reverse_array.each {|i| element.unshit(i)}
   
   
   
