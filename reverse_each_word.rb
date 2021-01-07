@@ -4,7 +4,7 @@ def reverse_each_word (string)
   new_reverse_array2 = [ ]
   
   string_to_array.each do |element|
-    new_reverse_array << element
+    
     
   
     
