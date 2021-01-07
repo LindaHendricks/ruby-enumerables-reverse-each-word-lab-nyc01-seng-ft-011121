@@ -7,7 +7,7 @@ def reverse_each_word (string)
     element.reverse 
     new_reverse_array << element
   
-  #shall I create a new loop where I reverse each element here ??
+  #shall I create a new loop where I reverse each element here ?? I try with .reverse but I don't succeed.
   
 end 
 new_reverse_array.join(" ")
