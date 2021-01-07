@@ -7,6 +7,9 @@ def reverse_each_word (string)
     element.reverse 
     new_reverse_array << element
   
+  #shall I create a 
+  
+  
 end 
 new_reverse_array.join(" ")
 end
