@@ -9,15 +9,6 @@ def reverse_each_word (string)
   
     
   end
-  
-  new_reverse_array.each do |element2|
-    element.unshift 
-    new_reverse_array2 << element2
-  
-  
-  
-  #string.each {|i| reversed.unshift(i)}
 end 
-new_reverse_array2
 end
 
